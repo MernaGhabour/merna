@@ -97,7 +97,6 @@ export class FashionComponent implements OnInit {
         if(res.hasOwnProperty('data')){
           this.data = res.data;}
         }
-
-    );
-   }
+      );
 }
+   }
